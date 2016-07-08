@@ -7,16 +7,10 @@ body {
 }
 
 
-.firstSentence {
-    color: darkblue;
-    font-weight: bold;
-    font-size: 1.2em;
-}
-
 div.row p {
-    color: blue;
+    color: grey;
 }
 
 #firstH1 {
-    color: blue;
+    color:grey;
 }
